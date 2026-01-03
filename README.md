@@ -1,7 +1,7 @@
 # Purplite  
 **Project Management System**
 
-![Paparan Sistem](docs/images/project-overview2.png)
+![Paparan Sistem](docs/images/purplite-overview2.png)
 
 Purplite is a lightweight **project management system** designed to simplify project tracking, resource allocation, and communication between **project managers and clients**.  
 It provides a centralized dashboard where project progress can be monitored in real time, enabling faster responses, clearer communication, and more effective follow-ups.
