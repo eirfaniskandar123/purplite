@@ -2,7 +2,7 @@
 **Project Management System**
 
 <p align="center">
-  <img src="docs/images/purplite-overview.png" alt="Purplite Dashboard" width="750"/>
+  <img src="docs/images/purplite-overview2.png" alt="Purplite Dashboard" width="750"/>
   <br/>
   <em>Dashboard view of the Purplite Project Management System</em>
 </p>
